@@ -23,7 +23,7 @@ class College {
 
         void displayData() {
             System.out.println("\n--- Admission Details ---");
-            System.out.println("College Name: " + collegeName); // outer class variable
+            System.out.println("College Name: " + collegeName); 
             System.out.println("Student Name: " + studentName);
             System.out.println("Course: " + course);
         }
